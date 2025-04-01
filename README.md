@@ -1,2 +1,2 @@
 # ce9_devsecops_template
-Template for CE9 DevSecOps Assignments
+Assignment for basic CI/CD with Terraform Apply/Destroy actions
